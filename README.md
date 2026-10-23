@@ -50,7 +50,7 @@ Archived attempts:
 ##  Learning Journey
 
 I’m following a 6-year roadmap  to build intelligent systems from scratch.  
-You can explore the roadmap [here](https://github.com/bamoah_30/Agenda-6-years
+You can explore the roadmap [here](https://github.com/bamoah_30/Agenda-6-years)
 
 
 ---
