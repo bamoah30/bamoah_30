@@ -50,17 +50,8 @@ Archived attempts:
 ##  Learning Journey
 
 I’m following a 6-year roadmap  to build intelligent systems from scratch.  
-You can explore the roadmap [here](https://github.com/bamoah_30/Agenda-6-years).
+You can explore the roadmap [here](https://github.com/bamoah_30/Agenda-6-years
 
-**Update Oct 2026:** After 7 months factory immersion, back and continuing the journey from the factory floor.
-
----
-
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bamoah_30&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bamoah_30&layout=compact&theme=radical)
 
 ---
 
