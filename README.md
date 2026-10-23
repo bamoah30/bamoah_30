@@ -75,4 +75,3 @@ You can explore the roadmap [here](https://github.com/bamoah30/Agenda-6-years).
 **“The future belongs to those who build it. I’m building mine—one commit at a time.”**  
 *— Bernard, aspiring AI + ROBOTIC Engineer*
 
-![Profile Views](https://komarev.com/ghpvc/?username=bamoah30&color=blueviolet)
