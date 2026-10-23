@@ -9,7 +9,7 @@ Building from factory floor.
 
 I blend mechanical intuition with intelligent software to build systems that think, move, and adapt.
 
- **Current Focus (Year 1/6 - Factory Immersion):**
+ **Current Focus (Year 2/6 - Factory Immersion):**
 - Factory floor at Palate Foods: VFFS systems
 - Documenting everything in Agenda-6-years
 
@@ -42,7 +42,7 @@ Archived attempts:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Industrial (Year 1):**
+**Industrial (Year 2):**
 `VFFS` `Pneumatics` `PLC Basics`
 
 ---
