@@ -21,11 +21,11 @@ My long-term goal is to become ** AI + ROBOTIC ENGINEER**: someone who blends me
 
 ##  My Builder’s Lab
 
-My main workspace is [`Agenda-6-years`](https://github.com/bamoah_30/Agenda-6-years), where I document my transformation in real time.
+My main workspace is [`Agenda-6-years`](https://github.com/bamoah30/Agenda-6-years), where I document my transformation in real time.
 
 Supporting tools:
--  [`PomodoroApp`](https://github.com/bamoah_30/PomodoroApp): Focus timer for deep work  
--  [`AI Roadmap Tracker`](https://github.com/bamoah_30/Ai-roadmap-tracker): Visual milestone tracker
+-  [`PomodoroApp`](https://github.com/bamoah30/PomodoroApp): Focus timer for deep work  
+-  [`AI Roadmap Tracker`](https://github.com/bamoah30/Ai-roadmap-tracker): Visual milestone tracker
 
 Archived attempts:
 - `Project-100-days-of-coding` and `python-course_2025` reflect early experiments and learning pivots.
@@ -45,7 +45,12 @@ Archived attempts:
 **Industrial (Year 1):**
 `VFFS` `Pneumatics` `PLC Basics`
 
+---
 
+##  Learning Journey
+
+I’m following a 6-year roadmap to build intelligent systems from scratch.  
+You can explore the roadmap [here](https://github.com/bamoah30/Agenda-6-years).
 
 ---
 
@@ -62,7 +67,7 @@ Archived attempts:
 ##  Let’s Connect
 
 - LinkedIn: [linkedin.com/in/bernard-ai](https://linkedin.com/in/bernard-ai)  
-- Roadmap: [Agenda-6-years](https://github.com/bamoah_30/Agenda-6-years)  
+- Roadmap: [Agenda-6-years](https://github.com/bamoah30/Agenda-6-years)  
 - Email: bamoah847@gmail.com
 
 ---
@@ -70,4 +75,4 @@ Archived attempts:
 **“The future belongs to those who build it. I’m building mine—one commit at a time.”**  
 *— Bernard, aspiring AI + ROBOTIC Engineer*
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=bamoah30&color=blueviolet)
